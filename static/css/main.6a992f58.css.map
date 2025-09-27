@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6a992f58.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAEnB,YACE,KACE,gDACF,CACF","sources":["index.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n@layer base {\n  body {\n    @apply bg-lavender-light text-gray-800 font-sans;\n  }\n}\n"],"names":[],"sourceRoot":""}
