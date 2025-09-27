@@ -72,7 +72,7 @@ export default function Portfolio() {
                 Full-stack blogging platform using React, Node/Express, and ElasticSearch.
               </p>
               <p className="text-sm text-gray-600 mb-3">React, Node.js, ElasticSearch, Material-UI</p>
-              <a href="https://github.com/yourusername/blogging-platform" target="_blank" rel="noreferrer" className="text-lavender-dark hover:underline">
+              <a href="https://github.com/anasuyasingaram/blogging-platform" target="_blank" rel="noreferrer" className="text-lavender-dark hover:underline">
                 View Project →
               </a>
             </div>
