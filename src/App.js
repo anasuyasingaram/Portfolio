@@ -61,7 +61,7 @@ export default function Portfolio() {
                 E-commerce simulation with product APIs, shopping cart, and weather-based recommendations.
               </p>
               <p className="text-sm text-gray-600 mb-3">React, Node.js, Express, Material-UI</p>
-              <a href="https://github.com/yourusername/onmart-superstore" target="_blank" rel="noreferrer" className="text-lavender-dark hover:underline">
+              <a href="https://github.com/anasuyasingaram/onmart-superstore" target="_blank" rel="noreferrer" className="text-lavender-dark hover:underline">
                 View Project →
               </a>
             </div>
